@@ -22,6 +22,10 @@
 - 不把普通大纲冒充逐页内容稿
 - 不默认输出完整讲师逐字稿
 - 不模仿任何教育名师的人物语言和表达风格
+- 不把课表“课程产出”或原164知识点的“原课程产出”当作PPT页面指令
+- 不自动增加工具包、SOP、迁移任务、总结页或上屏来源表
+
+课程内容以课表的核心问题、核心内容、去重职责及用户确认的设计为准。事实研究用于核验这些内容，不用于自行扩课；来源记录保留在内容稿非上屏备注中。
 
 ## 标准流程
 
@@ -98,7 +102,7 @@ Checkpoint 2
 - `references/teaching-design-standard.md`：案例、工具和教学迁移设计
 - `references/ppt-content-standard.md`：最终逐页内容稿规范
 - `references/quality-and-revision.md`：审核、反馈解释和局部修改
-- `examples/behavioral-tests.md`：五项行为测试
+- `examples/behavioral-tests.md`：行为测试与“课表产出不自动上屏”反例
 - `examples/test-results.md`：本次行为测试记录与未覆盖项
 - `scripts/validate_course_system.py`：60课与164映射轻量校验
 
